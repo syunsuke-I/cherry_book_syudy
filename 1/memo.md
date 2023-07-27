@@ -5,4 +5,4 @@
 
 ## Rubyについて
 
-* RubyにはCで書かれたCrubyや
+* RubyにはCで書かれたCrubyや、Jrubyがある。JSにコンパイル出来るOpalもあるらしい。
